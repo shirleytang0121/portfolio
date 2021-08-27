@@ -3783,3 +3783,10 @@ input, select, textarea {
 			}
 
 		}
+
+
+.photo{
+	width: 35%;
+	height: auto;
+	border-radius: 50%;
+}
