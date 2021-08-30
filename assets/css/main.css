@@ -3790,3 +3790,9 @@ input, select, textarea {
 	height: auto;
 	border-radius: 50%;
 }
+
+
+.skills{
+	width: 115px;
+	height: auto;
+}
